@@ -30,9 +30,19 @@ p, h2{
     font-style: italic;
     text-align: center;
 }
-img.icon{
-    margin-left: 3px;
+img.icon1{
+    width: 60px;
+    margin-left: 138px;
+    align-items: center;
+    gap: 0;
 }
+img.icon2{
+    width: 60px;
+    margin-right: 25px;
+    align-items: center;
+    gap: 0;
+    padding: 0;
+} 
 /* .icon{
     margin-right: 10px;
 } */
