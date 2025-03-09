@@ -30,21 +30,21 @@ p, h2{
     font-style: italic;
     text-align: center;
 }
-img.icon1{
-    width: 60px;
-    margin-left: 138px;
-    align-items: center;
-    gap: 0;
+img.icon{
+    position: absolute;
+    left: 10%;
 }
-img.icon2{
+/* img.icon2{
     width: 60px;
-    margin-right: 25px;
-    align-items: center;
-    gap: 0;
-    padding: 0;
-} 
-/* .icon{
-    margin-right: 10px;
+   margin-right: 25px;
+   align-items: center;
+   gap: 0;
+   padding: 0; 
+   position: absolute;
+   right: 50%;
+}  
+ .icon{
+   margin-right: 10px;
 } */
 audio{
     width: 250px;
